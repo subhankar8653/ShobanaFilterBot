@@ -54,6 +54,3 @@ youtube-dl
 youtube-search
 youtube-search-python>=1.4.6
 ytthumb
-anyio==3.7.1
-cinemagoer==2023.5.1
-
